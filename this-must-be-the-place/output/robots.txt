@@ -1,0 +1,4 @@
+Sitemap: https://this-must-be-the-place.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: this-must-be-the-place.github.io
